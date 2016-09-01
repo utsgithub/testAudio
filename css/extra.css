@@ -1,0 +1,23 @@
+﻿.zoom {
+    zoom: 2;
+}
+
+.ul_line li a {
+    line-height: 24px;
+}
+
+.s_selectList li a {
+    line-height: 25px;
+    height: 20px;
+    overflow: hidden;
+}
+
+.textarea_skin {
+    border: 1px solid #dddddd;
+    padding: 8px 12px;
+    margin-bottom: 18px;
+}
+
+.font_red {
+    color: #f60;
+}
